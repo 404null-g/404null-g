@@ -1,7 +1,7 @@
 # <p align="center"> 🌸 gimena alderete 🌸 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SAWARATSUKI/Kawaii-Glow-Icons/main/Icons/Terminal.png" width="100">
+  <img src="9c92979de6be95a5e99d61fa47bbd165" width="100">
 </p>
 
 ### 👾 Hacker Identity
