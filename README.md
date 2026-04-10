@@ -6,7 +6,6 @@
 <p align="center">
   <b>User:</b> 404null-g <br>
 
-  <b> </b> ────୨ৎ────
   <b>User:</b> 404null-g <br>
   <b>Nombre:</b> Gimena Alderete <br>
   <b>Carrera:</b> Ingeniería Informática <br>
