@@ -1,9 +1,6 @@
 # <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=🌸+Gimena+Alderete+🌸" alt="Typing SVG" /> </p>
 
-<p align="center">
-  <img src="<img width="728" height="496" alt="image" src="https://github.com/user-attachments/assets/b4eca8a2-a044-479a-8ece-0623be443ed2" />
-" width="80">
-</p>
+
 
 ### <p align="center"> 👾 🅂🅈🅂🅃🄴🄼 🄸🄽🄵🄾 </p>
 <p align="center">
