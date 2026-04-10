@@ -20,6 +20,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=404null-g&theme=rose_pine&background=000000&fire=ff69b4&ring=ff69b4&sideNums=ffffff&currStreakNum=ff69b4&hide_border=true" width="40" />
 </p>
 <!-- Copy-paste in your Readme.md file -->
+### <p align="center"> </p>
 
 <a href="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors?repo_id=41986369&limit=30" target="_blank" style="display: block" align="center">
   <picture>
