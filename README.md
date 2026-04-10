@@ -32,7 +32,7 @@
 
 ### <p align="center"> 🌸 𝓥𝓲𝓫𝓮 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJpbmZ1YXJ6bmN6bmR6bmR6bmR6bmR6bmR6bmR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="300">
+  <img src="https://i.pinimg.com/originals/6b/fc/3c/6bfc3c650c24d1cc9d5214964303c06d.gif" width="300">
 </p>
 
 <p align="center"> 
