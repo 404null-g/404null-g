@@ -21,9 +21,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=404null-g&theme=rose_pine&background=000000&fire=ff69b4&ring=ff69b4&sideNums=ff69b4&currStreakNum=ff69b4" alt="Streak" />
 </p></p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SAWARATSUKI/Kawaii-Glow-Icons/main/Icons/Terminal.png" width="100">
-</p>
 
 
 <p align="center">
