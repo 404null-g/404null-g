@@ -1,16 +1,21 @@
-## Hi there 👋
+# <p align="center"> ꜱʏꜱᴛᴇᴍ ᴏᴠᴇʀʀɪᴅᴇ 🌸 </p>
 
-<!--
-**404null-g/404null-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SAWARATSUKI/Kawaii-Glow-Icons/main/Icons/Terminal.png" width="100">
+</p>
 
-Here are some ideas to get you started:
+### 👾 Hacker Identity
+- **User:** 404null-g
+- **Status:** Initializing pink aesthetic...
+- **Vibe:** Dark / Rosita / Hacker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 System Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=404null-g&show_icons=true&theme=rose_pine&bg_color=000000&title_color=ff69b4&text_color=ff69b4&icon_color=ff69b4" alt="Stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=404null-g&theme=rose_pine&background=000000&fire=ff69b4&ring=ff69b4&sideNums=ff69b4&currStreakNum=ff69b4" alt="Streak" />
+</p>
