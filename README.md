@@ -35,6 +35,4 @@
   <img src="https://i.pinimg.com/originals/6b/fc/3c/6bfc3c650c24d1cc9d5214964303c06d.gif" width="300">
 </p>
 
-<p align="center"> 
-  <samp> 01010101 01110111 01010101 (UwU) </samp> 
-</p>
+
