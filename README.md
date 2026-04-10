@@ -23,7 +23,7 @@
 
 ### <p align="center"> 🛠️ 🆃🅴🅲🅷 🆂🆃🅰🅲🅺 </p>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2b/32/8b/2b328b09c9981f565e35fd94f5712c9f.gif" />
+  <img src="https://i.pinimg.com/736x/ad/50/15/ad501584ce27bb4799e27ba11e80214d.jpg" />
 </p>
 
 ---
