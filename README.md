@@ -7,7 +7,7 @@
   <b>User:</b> 404null-g <br>
   <b>Nombre:</b> Gimena Alderete <br>
   <b>Carrera:</b> Ingeniería Informática <br>
-  <b>ID:</b> CI180120
+  <b></b> CI180120
 </p>
 
 ---
