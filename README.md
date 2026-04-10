@@ -14,7 +14,7 @@
 
 ---
 
-### <p align="center"> 📊 🆂🆈🆂🆃🅴🅼 🆂🆃🅰🆃🆂 </p>
+### <p align="center"> 📊 🆂🆈🆂🆃🅴🅼 🆂🆃🅰️🆃🆂 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=404null-g&show_icons=true&theme=rose_pine&bg_color=000000&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&hide_border=true" width="400" />
 </p>
@@ -23,16 +23,25 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=404null-g&theme=rose_pine&background=000000&fire=ff69b4&ring=ff69b4&sideNums=ffffff&currStreakNum=ff69b4&hide_border=true" width="400" />
 </p>
 
-### <p align="center"> 🛠️ 🆃🅴🅲🅷 🆂🆃🅰🅲🅺 </p>
+### <p align="center"> 🛠️ 🆃🅴🅲🅷 🆂🆃🅰️🅲🅺 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404null-g&layout=compact&theme=rose_pine&bg_color=000000&title_color=ff69b4&text_color=ffffff&hide_border=true" width="350" />
 </p>
 
 ---
 
-### <p align="center"> 🌸 </p>
+### <p align="center"> 📈 🅲🅾🅽🆃🆁🅸🅱🆄🆃🅸🅾🅽 🅶🆁🅰🅿🅷 </p>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/6b/fc/3c/6bfc3c650c24d1cc9d5214964303c06d.gif" width="300">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=404null-g&bg_color=000000&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
+---
 
+### <p align="center"> 🌸 𝓿𝓲𝓿𝓮 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJpbmZ1YXJ6bmN6bmR6bmR6bmR6bmR6bmR6bmR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="300">
+</p>
+
+<p align="center"> 
+  <samp> 01010101 01110111 01010101 (UwU) </samp> 
+</p>
