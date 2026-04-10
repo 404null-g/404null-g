@@ -4,8 +4,6 @@
 
 ### <p align="center"> 👾 🅂🅈🅂🅃🄴🄼 🄸🄽🄵🄾 </p>
 <p align="center">
-  ────୨ৎ────
-  
   <b>User:</b> 404null-g <br>
   <b>User:</b> 404null-g <br>
   <b>Nombre:</b> Gimena Alderete <br>
