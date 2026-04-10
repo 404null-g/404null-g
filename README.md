@@ -1,4 +1,4 @@
-# <p align="center"> ꜱʏꜱᴛᴇᴍ ᴏᴠᴇʀʀɪᴅᴇ 🌸 </p>
+# <p align="center"> 🌸 gimena alderete 🌸 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SAWARATSUKI/Kawaii-Glow-Icons/main/Icons/Terminal.png" width="100">
