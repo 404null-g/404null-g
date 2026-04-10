@@ -2,7 +2,7 @@
 
 
 
-### <p align="center"> 👾 🅂🅈🅂🅃🄴🄼 🄸🄽🄵🄾 </p>
+### <p align="center"> ────୨ৎ──── </p>
 <p align="center">
   <b>User:</b> 404null-g <br>
   <b>User:</b> 404null-g <br>
