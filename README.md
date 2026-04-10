@@ -14,7 +14,7 @@
 
 ### <p align="center"> 📊 🆂🆈🆂🆃🅴🅼 🆂🆃🅰🆃🆂 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=404null-g&show_icons=true&theme=rose_pine&bg_color=000000&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&hide_border=true" width="400" />
+  <img src="https://i.pinimg.com/736x/3f/43/1b/3f431b105b3d5aa53fee60fbd8ebf201.jpg" />
 </p>
 
 <p align="center">
