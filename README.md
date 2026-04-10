@@ -1,4 +1,4 @@
-# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=🌸+Gimena+Alderete+🌸 alt="Typing SVG" /> </p>
+# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=🌸+Gimena+Alderete+🌸;Initializing+System...;Hacker+Aesthetic+Mode" alt="Typing SVG" /> </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SAWARATSUKI/Kawaii-Glow-Icons/main/Icons/Terminal.png" width="80">
