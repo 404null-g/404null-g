@@ -23,7 +23,7 @@
 
 ### <p align="center"> 🛠️ 🆃🅴🅲🅷 🆂🆃🅰🅲🅺 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404null-g&layout=compact&theme=rose_pine&bg_color=000000&title_color=ff69b4&text_color=ffffff&hide_border=true" width="350" />
+  <img src="https://i.pinimg.com/originals/2b/32/8b/2b328b09c9981f565e35fd94f5712c9f.gif" />
 </p>
 
 ---
