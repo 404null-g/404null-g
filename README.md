@@ -45,13 +45,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=404null-g&theme=rose_pine&background=000000&fire=ff69b4&ring=ff69b4&sideNums=ffffff&currStreakNum=ff69b4&hide_border=true" width="400" />
 </p>
-
+---
 <p align="center">
-  <img src="<img width="100" height="231" alt="image" src="https://github.com/user-attachments/assets/b510c57a-9929-4f56-8789-2e559a27377d" />
-" alt="GitHub Stats" />
+   <img src="https://i.pinimg.com/originals/4a/a9/bf/4aa9bf9404ce1824e624624e506cc7cb.gif="300">
 </p>
-
-
+---
 
 # <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=🌸+UwU+🌸" alt="Typing SVG" /> </p>
 
