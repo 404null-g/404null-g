@@ -47,7 +47,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=404null-g&count_private=true&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4" alt="GitHub Stats" />
+  <img src="<img width="100" height="231" alt="image" src="https://github.com/user-attachments/assets/b510c57a-9929-4f56-8789-2e559a27377d" />
+" alt="GitHub Stats" />
 </p>
 
 
