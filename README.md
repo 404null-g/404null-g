@@ -49,13 +49,7 @@
 <p align="center">
    <img src="https://i.pinimg.com/originals/4a/a9/bf/4aa9bf9404ce1824e624624e506cc7cb.gif="300">
 </p>
----
 
-# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=🌸+UwU+🌸" alt="Typing SVG" /> </p>
-
-
-
----
 
 ### <p align="center"> 🌸 </p>
 <p align="center">
