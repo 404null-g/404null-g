@@ -3,13 +3,13 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 :) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="center">
-  <a href="mailto:tu-email@gmail.com">
+  <a href="mailto:gimenaalderete2006@gmail.com">
     <img align="center" alt="Email" width="30px" src="https://img.icons8.com/fluent/48/ff69b4/gmail.png" />
   </a>
-  <a href="https://www.instagram.com/TU_USUARIO">
+  <a href="https://www.instagram.com/alderete_.gime?igsh=MTBldjY3NWs1d2dtdg%3D%3D&utm_source=qr">
     <img align="center" alt="Instagram" width="30px" src="https://img.icons8.com/fluent/48/ff69b4/instagram-new.png" />
   </a>
-  <a href="https://www.tiktok.com/@TU_USUARIO">
+  <a href="https://www.tiktok.com/@ghh0st.x_x">
     <img align="center" alt="TikTok" width="30px" src="https://img.icons8.com/fluent/48/ff69b4/tiktok.png" />
   </a>
 </p>
