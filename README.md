@@ -23,10 +23,10 @@
 - 🌷 **Usuario:** 404null-g
 - 🩶 **Nombre:** Gimena Alderete
 - 🌸 **Carrera:** Ingeniería Informática
-- ✨ **Intereses:** IA, Desarrollo Java, Ciberseguridad y Astrología
+- ✨ **Intereses:** IA, Ciberseguridad, Deep Tech, Pentesting, Desarrollo de SCRIPTSen Python
 - 🌷 **Pronombres:** *She/Her*
-- 💻 **Actualmente:** Trabajando en proyectos de Java y aprendiendo Python
-- 🚀 **Dato curioso:** Me apasiona combinar el arte visual con el código
+- 💻 **Actualmente:** Estudiante
+- 🚀 **Dato curioso:** ME ENCANTA LA INGENIERIA SOCIAL; cambiar la contraseña de WI-FI de mi vecino y el OSINT
 
 <br>
 
