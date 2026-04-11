@@ -1,98 +1,88 @@
+# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=🌸+Gimena+Alderete+🌸" alt="Typing SVG" /> </p>
+
+### <p align="center"> ────୨ৎ──── </p>
+
+<p align="center">
+  <b>User:</b> 404null-g <br>
+  <b>Nombre:</b> Gimena Alderete <br>
+  <b>Carrera:</b> Ingeniería Informática 🌷 <br>
+  <b>Intereses:</b> IA, Desarrollo Java y Astrología ✨
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=404null-g&theme=rose_pine&background=000000&fire=ff69b4&ring=ff69b4&sideNums=ffffff&currStreakNum=ff69b4&hide_border=true" width="400" />
+</p>
+
+---
+
+### <p align="center"> 🛠️ 🆃🅴🅲🅷 🆂🆃🅰️🅲🅺 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,git,github,idea,mysql,py,cpp&theme=dark" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/6b/fc/3c/6bfc3c650c24d1cc9d5214964303c06d.gif" width="300">
+</p>
+
 <hr>
+
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <br>
-<a href="https://www.linkedin.com/in/falgunisarkar">
-  <img align="center" alt="Falguni @LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-  <a href="mailto:falgunisarkar526@gmail.com">
-  <img align="center" alt="Falguni @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://twitter.com/lostgirlvintage">
-  <img align="center" alt="Falguni @Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/lostgirlvintage_">
-  <img align="center" alt="Falguni @Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://google.qwiklabs.com/public_profiles/25c28abe-885e-4ec6-b75f-73f1d429ec08">
-  <img align="center" alt="Falguni @Qwiklabs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/qwiklabs.svg" />
-</a>
-<a href="https://www.hackerrank.com/lostgirljourney">
-  <img align="center" alt="Falguni @Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="https://www.codechef.com/users/falgunisarkar">
-  <img align="center" alt="Falguni @CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-<a href="https://dev.to/lostgirljourney">
-  <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Falguni @DEV Profile" width="22px">
-</a>
+  <a href="#">
+    <img align="center" alt="Gimena @LinkedIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="mailto:tu-email@gmail.com">
+    <img align="center" alt="Gimena @Mail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  </a>
+  <a href="#">
+    <img align="center" alt="Gimena @Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
 </h1>
 
 <p align="center">
   <em>
-    This is ME, Falguni Sarkar, a 2nd year undergraduate from <a href="http://sittechno.org/"> <b>Siliguri Institute of Technology</b>, Siliguri</a>. <br>
-    A budding <b>Full-Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    Estudiante de <b>Ingeniería Informática</b> apasionada por la tecnología 🌸 <br>
+    Enfocada en dominar <b>Java</b> y explorar el mundo de la <b>Inteligencia Artificial</b> 🩶 <br>
+    Siempre <b>aprendiendo</b> y <b>creando</b> algo nuevo ✨
   </em> 
-  <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <br><br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Coding with passion & aesthetics!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<img align="right" width="250px" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
+> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> ***Un poco sobre mí:***
 
-- <img src="https://media.giphy.com/media/j1sGG7gbue5o2gS31X/giphy.gif" width="30px">&nbsp;Pronouns: ***She/Her*** or ***CoderGirl***😉
-- <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">&nbsp;I’m currently working on Competitive Programming...
-- <img src="https://media.giphy.com/media/gicLJtvYJlEh0LSdCl/giphy.gif" width="30px">&nbsp;I’m currently learning <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> and <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />&nbsp;! 
-- <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp;I’m looking to collaborate in an Open - Source Project `(newbie)` 🤝...
-- <img src="https://media.giphy.com/media/1AgViXhq0ZzOZyYfHV/giphy.gif" width="30px">&nbsp;I’m looking for help with Cyber Security 😭!
-- <img src="https://media.giphy.com/media/lleGybkEAdmbVE8cKt/giphy.gif" width="30px">&nbsp;Ask me about anything, I am happy to help, only if the ball is in my court!
-- <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: I've ***13 Reasons Why***▶️&nbsp;to live **Happy** & *Money* is a one of them...
+- <img src="https://media.giphy.com/media/j1sGG7gbue5o2gS31X/giphy.gif" width="30px"> Pronombres: ***She/Her*** 🌷
+- <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px"> Actualmente trabajando en: **Proyectos de Programación en Java** 💻
+- <img src="https://media.giphy.com/media/gicLJtvYJlEh0LSdCl/giphy.gif" width="30px"> Aprendiendo: **Python** y **Algoritmos Avanzados** 🚀
+- <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px"> Interés especial: **IA Image Generation** y **Estética Cyberpunk** 🌸
+- <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px"> Dato curioso: Me encanta combinar el código con el arte visual ✨
 
 <hr>
+
 <p align="center">
-<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=lostgirljourney&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lostgirljourney&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
+<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/> <i><b>My GitHub Stats...</b></i><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=404null-g&count_private=true&show_icons=true&theme=radical&font_size=24&title_color=FF69B4&icon_color=FF69B4" alt="GitHub Status"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404null-g&show_icons=true&layout=compact&theme=radical&title_color=FF69B4&icon_color=FF69B4" alt="Most Used Languages">
 </p>
-<!--
-<hr>
-<details align="center">
-<summary>
-  Projects I am currently working on
-</summary>
-
-<br />
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ApurvShah007&repo=Algorithmic-Trading)](https://github.com/ApurvShah007/Algorithmic_trading)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apurvshah007&repo=portfolio-optimizer)](https://github.com/ApurvShah007/portfolio-optimizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragJhawar&repo=ProjectReward)](https://github.com/ChiragJhawar/ProjectReward)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
-
-<br />
-</details>
--->
 
 <hr>
 
 <p align="center"> 
-  <i><b>Profile Visitor Count...</b></i><br><br>
+  <i><b>Visitas a mi perfil...</b></i><br><br>
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br><br>
-  <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
+  <img src="https://profile-counter.glitch.me/404null-g/count.svg" />
 </p>
 
 <hr>
 
 <p align="center"> 
-  <b>Currently Playing🎶...</b><br><br>
-  <img src="https://novatorem.lostgirljourney.vercel.app/api/spotify" href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu"/>
+  <b>Escuchando ahora... 🎶</b><br><br>
+  <img src="https://novatorem.lostgirljourney.vercel.app/api/spotify" />
 </p>
-<hr>
-<!-- can't stop myself from editing🤷... -->
 
-----
-Credit: [lostgirljourney](https://github.com/lostgirljourney)
-
-Last Edited on: 23/09/2020
+<p align="center"> ────୨ৎ──── </p>
