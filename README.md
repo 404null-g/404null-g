@@ -18,7 +18,7 @@
 ### <p align="center"> 🛠️ 🆃🅴🅲🅷 🆂🆃🅰️🅲🅺 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,github,idea,mysql,py,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,py,kali,linux,cpp,git,github,idea,mysql&theme=dark" />
 </p>
 
 ---
@@ -31,14 +31,14 @@
 
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <br>
-  <a href="#">
-    <img align="center" alt="Gimena @LinkedIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
   <a href="mailto:tu-email@gmail.com">
-    <img align="center" alt="Gimena @Mail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img align="center" alt="Gimena @Mail" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
-  <a href="#">
-    <img align="center" alt="Gimena @Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <a href="https://www.instagram.com/TU_USUARIO">
+    <img align="center" alt="Gimena @Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  <a href="https://www.tiktok.com/@TU_USUARIO">
+    <img align="center" alt="Gimena @TikTok" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />
   </a>
 </h1>
 
@@ -59,7 +59,7 @@
 - <img src="https://media.giphy.com/media/j1sGG7gbue5o2gS31X/giphy.gif" width="30px"> Pronombres: ***She/Her*** 🌷
 - <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px"> Actualmente trabajando en: **Proyectos de Programación en Java** 💻
 - <img src="https://media.giphy.com/media/gicLJtvYJlEh0LSdCl/giphy.gif" width="30px"> Aprendiendo: **Python** y **Algoritmos Avanzados** 🚀
-- <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px"> Interés especial: **IA Image Generation** y **Estética Cyberpunk** 🌸
+- <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px"> Interés especial: **IA Image Generation** y **Ciberseguridad** 🌸
 - <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px"> Dato curioso: Me encanta combinar el código con el arte visual ✨
 
 <hr>
@@ -67,7 +67,6 @@
 <p align="center">
 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/> <i><b>My GitHub Stats...</b></i><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=404null-g&count_private=true&show_icons=true&theme=radical&font_size=24&title_color=FF69B4&icon_color=FF69B4" alt="GitHub Status"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404null-g&show_icons=true&layout=compact&theme=radical&title_color=FF69B4&icon_color=FF69B4" alt="Most Used Languages">
 </p>
 
 <hr>
@@ -81,8 +80,14 @@
 <hr>
 
 <p align="center"> 
-  <b>Escuchando ahora... 🎶</b><br><br>
+  <b>Currently Playing... 🎶</b><br><br>
   <img src="https://novatorem.lostgirljourney.vercel.app/api/spotify" />
 </p>
 
-<p align="center"> ────୨ৎ──── </p>
+<hr>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/47/0a/1c/470a1c13d789069d8f3ecf734440c953.gif" width="400">
+</p>
+
+<p align="center"> ──── ୨ৎ ──── </p>
