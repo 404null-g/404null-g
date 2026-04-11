@@ -45,10 +45,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=404null-g&theme=rose_pine&background=000000&fire=ff69b4&ring=ff69b4&sideNums=ffffff&currStreakNum=ff69b4&hide_border=true" width="400" />
 </p>
----
-<p align="center">
-   <img src="https://i.pinimg.com/originals/4a/a9/bf/4aa9bf9404ce1824e624624e506cc7cb.gif="300">
-</p>
+
 
 
 ### <p align="center"> 🌸 </p>
