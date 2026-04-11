@@ -1,17 +1,34 @@
 # <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=🌸+Gimena+Alderete+🌸" alt="Typing SVG" /> </p>
 
-### <p align="center"> ────୨ৎ──── </p>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐆𝐢𝐦𝐞𝐧𝐚 𝐀𝐥𝐝𝐞𝐫𝐞𝐭𝐞 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="center">
-  <b>User:</b> 404null-g <br>
-  <b>Nombre:</b> Gimena Alderete <br>
-  <b>Carrera:</b> Ingeniería Informática 🌷 <br>
-  <b>Intereses:</b> IA, Desarrollo Java y Astrología ✨
+  <a href="mailto:tu-email@gmail.com">
+    <img align="center" alt="Email" width="30px" src="https://img.icons8.com/fluent/48/ff69b4/gmail.png" />
+  </a>
+  <a href="https://www.instagram.com/TU_USUARIO">
+    <img align="center" alt="Instagram" width="30px" src="https://img.icons8.com/fluent/48/ff69b4/instagram-new.png" />
+  </a>
+  <a href="https://www.tiktok.com/@TU_USUARIO">
+    <img align="center" alt="TikTok" width="30px" src="https://img.icons8.com/fluent/48/ff69b4/tiktok.png" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=404null-g&theme=rose_pine&background=000000&fire=ff69b4&ring=ff69b4&sideNums=ffffff&currStreakNum=ff69b4&hide_border=true" width="400" />
-</p>
+<p align="center"> ──── ୨ৎ ──── </p>
+
+### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> ***Un poco sobre mí:***
+
+<img align="right" width="220px" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+
+- 🌷 **Usuario:** 404null-g
+- 🩶 **Nombre:** Gimena Alderete
+- 🌸 **Carrera:** Ingeniería Informática
+- ✨ **Intereses:** IA, Desarrollo Java, Ciberseguridad y Astrología
+- 🌷 **Pronombres:** *She/Her*
+- 💻 **Actualmente:** Trabajando en proyectos de Java y aprendiendo Python
+- 🚀 **Dato curioso:** Me apasiona combinar el arte visual con el código
+
+<br>
 
 ---
 
@@ -23,58 +40,14 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/6b/fc/3c/6bfc3c650c24d1cc9d5214964303c06d.gif" width="300">
-</p>
-
-<hr>
-
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-<br>
-  <a href="mailto:tu-email@gmail.com">
-    <img align="center" alt="Gimena @Mail" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-  </a>
-  <a href="https://www.instagram.com/TU_USUARIO">
-    <img align="center" alt="Gimena @Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-  <a href="https://www.tiktok.com/@TU_USUARIO">
-    <img align="center" alt="Gimena @TikTok" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />
-  </a>
-</h1>
+### <p align="center"> 📊 🅶🅸🆃🅷🆄🅱️ 🆂🆃🅰️🆃🆂 </p>
 
 <p align="center">
-  <em>
-    Estudiante de <b>Ingeniería Informática</b> apasionada por la tecnología 🌸 <br>
-    Enfocada en dominar <b>Java</b> y explorar el mundo de la <b>Inteligencia Artificial</b> 🩶 <br>
-    Siempre <b>aprendiendo</b> y <b>creando</b> algo nuevo ✨
-  </em> 
-  <br><br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Coding with passion & aesthetics!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=404null-g&theme=rose_pine&background=000000&fire=ff69b4&ring=ff69b4&sideNums=ffffff&currStreakNum=ff69b4&hide_border=true" width="400" />
 </p>
-
-<img align="right" width="250px" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
-
-> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> ***Un poco sobre mí:***
-
-- <img src="https://media.giphy.com/media/j1sGG7gbue5o2gS31X/giphy.gif" width="30px"> Pronombres: ***She/Her*** 🌷
-- <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px"> Actualmente trabajando en: **Proyectos de Programación en Java** 💻
-- <img src="https://media.giphy.com/media/gicLJtvYJlEh0LSdCl/giphy.gif" width="30px"> Aprendiendo: **Python** y **Algoritmos Avanzados** 🚀
-- <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px"> Interés especial: **IA Image Generation** y **Ciberseguridad** 🌸
-- <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px"> Dato curioso: Me encanta combinar el código con el arte visual ✨
-
-<hr>
 
 <p align="center">
-<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/> <i><b>My GitHub Stats...</b></i><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=404null-g&count_private=true&show_icons=true&theme=radical&font_size=24&title_color=FF69B4&icon_color=FF69B4" alt="GitHub Status"/>
-</p>
-
-<hr>
-
-<p align="center"> 
-  <i><b>Visitas a mi perfil...</b></i><br><br>
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br><br>
-  <img src="https://profile-counter.glitch.me/404null-g/count.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=404null-g&count_private=true&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4" alt="GitHub Stats" />
 </p>
 
 <hr>
@@ -84,10 +57,8 @@
   <img src="https://novatorem.lostgirljourney.vercel.app/api/spotify" />
 </p>
 
-<hr>
-
 <p align="center">
-  <img src="https://i.pinimg.com/originals/47/0a/1c/470a1c13d789069d8f3ecf734440c953.gif" width="400">
+  <img src="https://i.pinimg.com/originals/47/0a/1c/470a1c13d789069d8f3ecf734440c953.gif" width="350">
 </p>
 
 <p align="center"> ──── ୨ৎ ──── </p>
