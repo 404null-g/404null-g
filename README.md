@@ -1,6 +1,6 @@
 # <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=🌸+Gimena+Alderete+🌸" alt="Typing SVG" /> </p>
 
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐆𝐢𝐦𝐞𝐧𝐚 𝐀𝐥𝐝𝐞𝐫𝐞𝐭𝐞 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨 :) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="center">
   <a href="mailto:tu-email@gmail.com">
